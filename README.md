@@ -10,9 +10,9 @@ This repository contains configuration files for the following components:
 
 * fish shell
 * git
-* ssh
 * ruby lang
 * spacemacs
+* Counter-Strike: Global Offensive
 
 ## Usage
 
@@ -32,21 +32,15 @@ F `~/.gitignore`
 
 F `~/.gitconfig`
 
-### 3. SSH
+### 3. Ruby lang
 
-D `~/.ssh/`
+F `~/.gemrc`
 
-> Note: `.ssh` will be seeded with public key only. Private key (`id_rsa`) must be stored securely in other medium.
+### 4. Spacemacs
 
-### 4. Ruby lang
+F `~/.spacemacs`
 
-F  `~/.gemrc`
+### 5. Counter-Strike: GO
 
-### 5. Spacemacs
-
-F  `~/.spacemacs`
-
-
-
-
+F `$STEAM_LOCATION/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg`
 
