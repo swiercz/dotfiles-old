@@ -1,0 +1,23 @@
+# MacOS
+.DS_Store
+
+# IntelliJ related
+.idea/
+
+# RVM
+.rvmrc
+.ruby-version
+.ruby-gemset
+
+# RBENV
+.gems
+.rbenv-gemsets
+
+# Redis
+dump.rdb
+
+# Pow
+.powrc
+
+# dotenv
+.env
